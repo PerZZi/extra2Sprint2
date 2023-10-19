@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteBanda1{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.conteBanda2{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.conteBanda3{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.tabla{
+    display: flex;
+    justify-content: center;
+}
+
+table tr,td{
+    background-color: black;
+    color: white;
+    border: 2px solid greenyellow;
+}
